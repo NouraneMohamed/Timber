@@ -20,7 +20,8 @@
         android:icon="@mipmap/ic_launcher"
         android:label="Timber"
         android:theme="@style/AppTheme.FullScreen.Light"
-        tools:replace="android:allowBackup, android:label">
+        tools:replace="android:allowBackup, android:label"
+        >
 
         <activity
             android:name=".activities.MainActivity"
